@@ -1,4 +1,3 @@
-# PasswordVault_Demo
 
 # Password Vault Project - Testing Phase
 
